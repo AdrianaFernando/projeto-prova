@@ -1,0 +1,21 @@
+.categorias {
+    margin: 5em 0em 3em 30em;
+    width: 20%;
+    border: 1px solid black;
+    height: 300px;
+    text-align: center;
+}
+.central {
+    text-align: center;
+    font-style: oblique;
+    background-color: yellow;
+    
+}
+
+.verde {
+    color: green;
+}
+
+.vermelho {
+    color: red;
+}
